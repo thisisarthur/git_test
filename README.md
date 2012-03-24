@@ -1,1 +1,1 @@
-Just for test.
+Just for fun.
