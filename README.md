@@ -1,2 +1,2 @@
-Just for fun.
+Just for hello.
 Just for kidding.
