@@ -1,4 +1,5 @@
 class Test
+  # comment here
   def initialize(name)
     @name = name
   end
