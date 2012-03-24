@@ -7,4 +7,8 @@ class Test
   def self.hello
     puts "Hello, #@name!"
   end
+
+  def to_s
+    @name
+  end
 end
